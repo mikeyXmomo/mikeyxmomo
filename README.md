@@ -1,16 +1,24 @@
-### Hi there 👋
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I am Ilham Assidiqy Basory 👨‍💻
 
-<!--
-**mikeyXmomo/mikeyxmomo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Web enthusiast and Full Stack Javascript Developer. I am passionate about technologies and love to learn new things.
 
-Here are some ideas to get you started:
+#### 🔭 I’m currently looking for new opportunities .
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## ⚡ Tech Stack
+
+Here are a few things I've picked up along my learning journey.
+
+* HTML | CSS | Javascript
+* Emotion | Styled Components | React | Next.js | TailwindCSS
+* Node.js | Express | NestJS | Laravel 
+* Firebase | MySQL | PostgreSQL
+
+## 📫 Get in touch
+- LinkedIn - [Ilham Assidiqy](https://www.linkedin.com/in/ilham-assidiqy/)
+- Twitter - [Ilham Assidiqy B aja](https://twitter.com/mikeyxmomo)
+- Instagram - [Ilham Assidiqy B](https://www.instagram.com/ilhamassidiqyb/)
+
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=mikeyxmomo/mikeyxmomo)
+
