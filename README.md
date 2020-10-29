@@ -22,9 +22,11 @@ Here are a few things I've picked up along my learning journey.
 ![Material_UI](https://img.shields.io/badge/-Material_UI-fff?&logo=material-ui&logoColor=1769aa)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-fff?&logo=bootstrap&logoColor=7952B3)
 ![SCSS](https://img.shields.io/badge/-SCSS-fff?&logo=SASS)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-fff?&logo=tailwind-css)
 ![Styled Components](https://img.shields.io/badge/-%F0%9F%92%85%20styled--components-fff.svg?colorB=fff)
 
 #### 👨‍💻 Back End
+![Laravel](https://img.shields.io/badge/-Laravel-fff?&logo=laravel)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-fff?&logo=Node.js)
 ![Nest.js](https://img.shields.io/badge/-Nest.js-fff?&logo=nestjs&logoColor=E0234E)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-fff?&logo=mongodb)
