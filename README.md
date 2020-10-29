@@ -1,6 +1,6 @@
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I am Ilham Assidiqy Basory 👨‍💻
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I am Ilham Assidiqy Basory
 
-I am a Web enthusiast and Full Stack Javascript Developer. I am passionate about technologies and love to learn new things.
+I am a Web enthusiast and Full Stack Javascript Developer. I am passionate about technologies and love to learn new things. Thinking “out of the box” is my middle name
 
 #### 🔭 I’m currently looking for new opportunities .
 
