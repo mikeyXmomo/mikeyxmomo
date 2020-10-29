@@ -9,25 +9,33 @@ I am a Web enthusiast and Full Stack Javascript Developer. I am passionate about
 
 Here are a few things I've picked up along my learning journey.
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=expressjs)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=Firebase)
-![Next.js](https://img.shields.io/badge/-Next-black?style=flat-square&logo=Next.js)
-![Material_UI](https://img.shields.io/badge/-Material_UI-black?style=flat-square&logo=material-ui)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
-![SCSS](https://img.shields.io/badge/-SCSS-black?style=flat-square&logo=SASS)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
-![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku)
-![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify)
-![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-![Gitlab](https://img.shields.io/badge/-Gitlab-black?style=flat-square&logo=gitlab)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
+#### 💻 Languages
+![HTML5](https://img.shields.io/badge/-HTML5-fff?&logo=html5&logoColor=E44D26)
+![CSS3](https://img.shields.io/badge/-CSS3-fff?&logo=css3&logoColor=2565AE)
+![JavaScript](https://img.shields.io/badge/-JavaScript-fff?&logo=javascript&logoColor=ddc508)
+![Typescript](https://img.shields.io/badge/-Typescript-fff?&logo=typescript&logoColor=007ACC)
+![PHP](https://img.shields.io/badge/-PHP-fff?&logo=php)
+
+#### 🎨 Front End
+![React](https://img.shields.io/badge/-React-fff?&logo=react)
+![Next.js](https://img.shields.io/badge/-Next-fff?logo=Next.js&logoColor=000)
+![Material_UI](https://img.shields.io/badge/-Material_UI-fff?&logo=material-ui&logoColor=1769aa)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-fff?&logo=bootstrap&logoColor=7952B3)
+![SCSS](https://img.shields.io/badge/-SCSS-fff?&logo=SASS)
+![Styled Components](https://img.shields.io/badge/-%F0%9F%92%85%20styled--components-fff.svg?colorB=fff)
+
+#### 👨‍💻 Back End
+![Nodejs](https://img.shields.io/badge/-Nodejs-fff?&logo=Node.js)
+![Nest.js](https://img.shields.io/badge/-Nest.js-fff?&logo=nestjs&logoColor=E0234E)
+![MongoDB](https://img.shields.io/badge/-MongoDB-fff?&logo=mongodb)
+![Firebase](https://img.shields.io/badge/-Firebase-fff?&logo=Firebase)
+![MySQL](https://img.shields.io/badge/-MySQL-fff?&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-fff?&logo=postgresql&logoColor=336791)
+
+### 🕵️‍♂️ Infrastructure
+![Heroku](https://img.shields.io/badge/-Heroku-fff?&logo=heroku&logoColor=591DB1)
+![Netlify](https://img.shields.io/badge/-Netlify-fff?&logo=netlify)
+![Vercel](https://img.shields.io/badge/-Vercel-fff?&logo=vercel&logoColor=000)
 
 ## 📫 Get in touch
 - LinkedIn - [Ilham Assidiqy](https://www.linkedin.com/in/ilham-assidiqy/)
