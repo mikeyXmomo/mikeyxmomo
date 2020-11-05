@@ -40,7 +40,7 @@ Here are a few things I've picked up along my learning journey.
 ![Vercel](https://img.shields.io/badge/-Vercel-fff?&logo=vercel&logoColor=000)
 
 ## 📫 Get in touch
-- LinkedIn - [Ilham Assidiqy](https://www.linkedin.com/in/ilham-assidiqy/)
+- LinkedIn - [Ilham Assidiqy](https://www.linkedin.com/in/ilham-assidiqy-40984b15b/)
 - Twitter - [Ilham Assidiqy B aja](https://twitter.com/mikeyxmomo)
 - Instagram - [Ilham Assidiqy B](https://www.instagram.com/ilhamassidiqyb/)
 
